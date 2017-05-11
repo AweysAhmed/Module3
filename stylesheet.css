@@ -1,5 +1,26 @@
-.jumbotron.jumbotron-image {
-	margin-top: -20px;
-	background-color: #000000;
+.pageOne {
+background: url("https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg") no-repeat;
+background-size: cover;
+background-position: center;
+height: 960px;
+margin-top: -20px;
 }
 
+#pageAbout{
+color: #fff;
+
+}
+
+
+.pageTwo {
+height: 480px;
+background-color: white;
+background-size: cover;
+
+}
+
+
+
+.portfolio-title {
+	font-size: 50px;
+}
