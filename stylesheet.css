@@ -1,13 +1,14 @@
 .pageOne {
-background: url("https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg") no-repeat;
-background-size: cover;
-background-position: center;
+background: url(images/emile-perron-190221.jpg) no-repeat;
+background-size: contain;
 height: 960px;
 margin-top: -20px;
+width: 100%;
 }
 
 #pageAbout{
 color: #fff;
+/*border: 2px solid red;*/
 
 }
 
@@ -24,3 +25,4 @@ background-size: cover;
 .portfolio-title {
 	font-size: 50px;
 }
+
