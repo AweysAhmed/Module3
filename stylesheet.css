@@ -1,6 +1,6 @@
 .pageOne {
-background: url(images/emile-perron-190221.jpg) no-repeat;
-background-size: contain;
+background: url(images/emile-perron-190221.jpg) no-repeat center fixed;
+background-size: cover;
 height: 960px;
 margin-top: -20px;
 width: 100%;
@@ -14,15 +14,16 @@ color: #fff;
 
 
 .pageTwo {
-height: 480px;
-background-color: white;
-background-size: cover;
+height: 430px;
+
 
 }
 
 
-
-.portfolio-title {
-	font-size: 50px;
+.pageThree {
+	height: 430px;
 }
 
+.col-lg-3, .col-md-6 {
+	margin-bottom: 10px;
+}
