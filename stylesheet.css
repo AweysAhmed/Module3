@@ -1,29 +1,34 @@
-.pageOne {
+#pageAbout {
 background: url(images/emile-perron-190221.jpg) no-repeat center fixed;
 background-size: cover;
 height: 960px;
 margin-top: -20px;
 width: 100%;
+color: white;
 }
 
-#pageAbout{
-color: #fff;
-/*border: 2px solid red;*/
-
+#pagePortfolio {
+	margin-top: 40px;
 }
 
-
-.pageTwo {
-height: 430px;
-
-
+.pageTwo h1 {
+	margin-bottom: 40px;
 }
-
 
 .pageThree {
 	height: 430px;
+	margin-top: 30px;
 }
+
 
 .col-lg-3, .col-md-6 {
 	margin-bottom: 10px;
+}
+
+.social {
+font-size: 40px;
+}
+
+.fa {
+margin: 30px;
 }
